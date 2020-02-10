@@ -13,9 +13,9 @@ The webpage and dynamic table Dana has built are working as intended, but Dana h
 ## Challenge Overview
 The goals of this challenge are for you to:
 
-Create, update, and deploy JavaScript functions to provide additional table filters.
-Update and deploy forEach (for loop) to loop through the filters and update them with user input.
-Update and populate the dynamic filters and table using JavaScript and HTML.
+1. Create, update, and deploy JavaScript functions to provide additional table filters.
+2. Update and deploy forEach (for loop) to loop through the filters and update them with user input.
+3. Update and populate the dynamic filters and table using JavaScript and HTML.
 
 ## Challenge Summary
 The purpose of this project was to develop a webpage for showcasing UFO sitings.  The webpage needed to be professionally designed using HTML and CSS. Interactivity needed to be added with Javascript and D3. D3 is a useful javascript library for working with data-driven websites.  A table of UFO sitings needed to be added to the site along with filtering capability to filter on the various columns.
